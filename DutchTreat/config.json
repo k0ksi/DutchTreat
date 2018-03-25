@@ -1,0 +1,19 @@
+{
+  "Colors": {
+    "Favorite": "blue"
+  },
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=(localdb)\\MSSQLLocalDB;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "sdasdasgstrtrbccgfbfgsdcwqe;;asdsad;;dz;fr;gfd;d",
+    "Issuer": "http://localhost:8888",
+    "Audience": "users"
+  }
+}
